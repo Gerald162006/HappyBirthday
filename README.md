@@ -70,7 +70,7 @@
                 <img src="pic6.jpg" alt="Birthday Card">
             </div>
         </div>
-        <p>Wishing you a day filled with love and joy!</p>
+        <p>Wishing you a life filled with love and joy!</p>
     </div>
 </body>
 </html>
